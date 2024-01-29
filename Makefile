@@ -1,6 +1,6 @@
 # Push Repository to GitHub / Gitlab
 git:
-	git push origin && git push gitlab
+	git push github && git push gitlab
 
 # Run Dev
 dev:
